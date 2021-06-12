@@ -1,0 +1,36 @@
+Author:Eason,Brycen,Gordon
+This Documentation is intended for the Developer 
+Program/Application:Space Invaders
+
+Installation Guide:A zip file is compressed the user/developer will open
+In This Case with the developer the developer wants to open the entire file in the IDE to Open
+For the User's case They want to be opening and using the JAR FILE
+
+
+Tutorial:   
+For the user the play they can refer to this or refer to the how to play button in the main menu
+
+Main Menu: There will be four button with one being a play button to play the game, A how to play button(refer to tutorial)
+           Credits Button, and a high score button
+
+The Purpose of Space Invaders:
+You Are a spaceship who has a job to destroy the aliens the goal of this game is to make a faster and more harder version of space invaders
+
+The Following Things Have Been Changed in the game:
+    -Faster Gameplay
+    - Shield now can cover you and play bullets does not affect shield
+    - Aliens move faster and fire faster as each level progresses
+    - Score has a multplyer depending on the level 
+
+Controls:
+- To Play Use the Left and right Arrow Keys to Move 
+- Press or hold the spacebar to fire 
+
+Goals:
+- Destroy all the aliens to move on to the next level if aliens fall below a certain point the level will reset 
+- Game will end once you lost all of your lives 
+
+Good Luck
+
+To Get a printed version of this Copy and paste this link:
+https://docs.google.com/document/d/1f8BUtBWxKcEKY__qyimJ7m3SM58oDV2su0eztMy2evA/edit?usp=sharing
