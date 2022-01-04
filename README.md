@@ -21,3 +21,5 @@ Highscore Board:
 
 ![image](https://github.com/easondan/Space-invade/blob/main/Images/highscore.png)
 
+To Run the Program
+Clone the Program Go into the Dist File run java -jar spaceInvade.jar and enjoy the game 
